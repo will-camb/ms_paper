@@ -4,7 +4,7 @@ Authors: William Barrie (wb275@cam.ac.uk)
 Licence: MIT
 
 
-Usage example:
+# Usage example:
 
 bash run_PRS_calculator_v4.sh imputed ordered_all_pop_ids_mapped output_files variants_for_v4.csv False False 
 
