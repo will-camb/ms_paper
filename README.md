@@ -26,3 +26,5 @@ variants_for_v4.csv: these are pruned variants used to calculate the PRS score. 
 
 bootstrap option here is for bootstrapping individuals (n=1000)
 reverse_cols option is whether to reverse the columns labels in temp.$anc.$chr.master_all_copyprobsperlocus.txt.gz. If they are ordered correctly, no need to reverse. 
+
+Output files can be analysed in jupyter notebook PRS_analysis-mafaverage_committed-221001. This runs bootstrapping of SNPs, including the accelerated bootstrap, and plots confidence intervals for bootstrapping SNPs and individuals. 
