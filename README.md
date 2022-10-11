@@ -6,7 +6,7 @@ Licence: MIT
 
 # Usage example:
 
-bash run_PRS_calculator_v4.sh imputed ordered_all_pop_ids_mapped output_files variants_for_v4.csv False False 
+```bash run_PRS_calculator_v4.sh imputed ordered_all_pop_ids_mapped output_files variants_for_v4.csv False False```
 
 Where: 
 imputed/ is a directory containing chromopainter local ancestry output file named in the form temp.$anc.$chr.master_all_copyprobsperlocus.txt.gz. NB chromopainter reverses column names for SNPs so care needed. This file is specific to a single ancestry/donor population. File should be SNP positions as columns, with first column "ID" containing individual IDs, one haplotype per row (i.e. two rows per diploid individual). E.g.:
