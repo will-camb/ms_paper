@@ -1,4 +1,4 @@
-This is the location for code used in Ancestral Risk Score (ARS) generation in Barrie et al. 2022: "Elevated genetic risk for multiple sclerosis originated in Steppe Pastoralist populations"
+This is the code used in Ancestral Risk Score (ARS) generation in Barrie et al. 2022: "Elevated genetic risk for multiple sclerosis originated in Steppe Pastoralist populations"
 
 Authors: William Barrie (wb275@cam.ac.uk)
 Licence: MIT
